@@ -8,7 +8,7 @@
     "dark",
     "theme"
   ],
-  "repository": "https://github.com/atom/code-macro",
+  "repository": "https://github.com/nickfmc/CodeMacro",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
