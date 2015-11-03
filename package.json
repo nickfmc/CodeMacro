@@ -1,0 +1,16 @@
+{
+  "name": "code-macro",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark theme easy on the eyes built for long coding sessions inspired by Go Macro bars",
+  "keywords": [
+    "syntax",
+    "dark",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/code-macro",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
