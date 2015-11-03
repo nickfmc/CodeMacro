@@ -1,7 +1,7 @@
 {
   "name": "code-macro",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Dark theme easy on the eyes built for long coding sessions inspired by Go Macro bars",
   "keywords": [
     "syntax",
